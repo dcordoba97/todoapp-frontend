@@ -6,6 +6,10 @@ Hello! Thanks for looking throught this repo. For you to get started I'd recomme
 - Npm 8.5.5
 - IDE: VSCode
 
+## Get Started
+
+run `npm install` to get your packages installed
+
 ## Available Scripts
 
 In the project directory, you can run:

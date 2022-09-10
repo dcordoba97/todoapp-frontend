@@ -1,5 +1,11 @@
 # Todo task App
 
+Hello! Thanks for looking throught this repo. For you to get started I'd recommend to first get yourself the same versions as we do.
+
+- Node 16.15
+- Npm 8.5.5
+- IDE: VSCode
+
 ## Available Scripts
 
 In the project directory, you can run:
